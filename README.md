@@ -18,10 +18,11 @@ This PCB is designed to fit onto the back of any QT Py or Xiao board, it can be 
 
 We include some header that you can solder to your QT Py. You can also pick up an Itsy Bitsy short female header kit to make it removable but compact, you'll just need to trim down the headers to 7 pins long.
 
-Comes as an assembled and tested PCB
-For any QT Py or Xiao boards
-Use any micro SD card that supports SPI mode with one CS pin.
-Any Arduino / CircuitPython / MicroPython library can be used to talk to the card just like a normal SD card breakout!
+* Comes as an assembled and tested PCB
+* For any QT Py or Xiao boards
+* Use any micro SD card that supports SPI mode with one CS pin.
+* Any Arduino / CircuitPython / MicroPython library can be used to talk to the card just like a normal SD card breakout!
+
 microSD card and QT Py are not included.
 
 ### License
